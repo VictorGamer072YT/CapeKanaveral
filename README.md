@@ -1,4 +1,4 @@
-# CapeKanaveral
+# KSRSS-LaunchSites
 A KSP mod for KSRSS 2.5x that recreates Launch Sites in KSRSS 2.5x
 
 W.I.P.
