@@ -19,3 +19,7 @@ W.I.P.
 - [KerbalKonstructs](https://github.com/KSP-RO/Kerbal-Konstructs/releases/tag/v1.8.3.0)
 - [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center)
 - [Omega's Stockalike Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required)
+
+## Known Bugs
+- Putting a craft on LC-39 (A or B, doesn't matter), then returning to the space center, and trying to fly that craft again, will result in a kraken attack ![LC-39B is exploding in the distance, a Saturn V rocket and launch strutucture are being flung.](https://cdn.discordapp.com/attachments/800087102338891776/898573521347821618/unknown.png) Sometimes it might work, but in most cases, it has ended in disaster.
+- The game might consider certain parts of land as being "Splashed".
