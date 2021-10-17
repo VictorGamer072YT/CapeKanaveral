@@ -9,6 +9,7 @@ W.I.P.
 ## Planned Sites
 - Edwards AFB (Shuttle Landings)
 - Vandenberg AFB (Shuttle Landings and Launches, also another rocket which I forgot)
+- White Sands Missile Range (Shuttle Landing, also sounding rocket launch site)
 - Baikonur Cosmodrome (Vostok, Voshkhod, Soyuz, N1, Energia, Proton, ETC.)
 - Certain Shuttle Abort Sites, Specifically the TAL sites, and the West Coast abort sites.
 - Possibly an Airport for the people who like to fly planes.
