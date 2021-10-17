@@ -4,7 +4,7 @@ A KSP mod for KSRSS 2.5x that recreates Launch Sites.
 W.I.P.
 
 ## Sites included
-- Cape Canaveral
+- Cape Canaveral (KSC and CCAFS)
 
 ## Planned Sites
 - Edwards AFB (Shuttle Landings)
