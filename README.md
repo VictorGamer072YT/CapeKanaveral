@@ -24,6 +24,7 @@ A KSP mod for KSRSS 2.5x that recreates Launch Sites.
 ## Known Bugs
 - Putting a craft on LC-39 (A or B, doesn't matter), then returning to the space center, and trying to fly that craft again, will result in a kraken attack ![LC-39B is exploding in the distance, a Saturn V rocket and launch strutucture are being flung.](https://cdn.discordapp.com/attachments/800087102338891776/898573521347821618/unknown.png) Sometimes it might work, but in most cases, it has ended in disaster.
 - The game might consider certain parts of land as being "Splashed".
+- Biomes are completely out of whack (for now). !["Landed" on an Ocean.](https://cdn.discordapp.com/attachments/498209637150097408/899378024879894629/unknown.png)
 
 ## Caveats
 - The pads have changed over the years, while I've done my best to make sure they can be used by any rocket that ever launched from that particular pad, it isn't perfect, some pads have been changed too much, most of them are in their most famous config, ie, SLC-37B is in the Delta 4/Heavy config, launch the Saturn flights from LC-34. I'm sorry for this, but there isn't much that I can do.
